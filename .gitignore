@@ -1,0 +1,7 @@
+.idea/
+_*.py
+*test*.*
+*Test*.*
+*test*/
+*Test*/
+.DS_Store
